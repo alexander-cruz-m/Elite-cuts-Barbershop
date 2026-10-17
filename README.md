@@ -47,11 +47,11 @@ This project helped me strengthen my understanding of:
 
 ## Live Demo
 
-https://acmalexamder05-web.github.io/Elite-cuts-Barbershop/
+https://alexander-cruz-m.github.io/Elite-cuts-Barbershop/
 
 ## Repository
 
-https://github.com/acmalexamder05-web/Elite-cuts-Barbershop
+https://alexander-cruz-m.github.io/Elite-cuts-Barbershop/
 
 ---
 
